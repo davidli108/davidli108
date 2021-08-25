@@ -49,6 +49,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidli108&theme=white&layout=compact" /> 
 
-<img align="center" alt="David's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=davidli108" /><br /><br />
-
-<img align="right" alt="David's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidli108&show_icons=true&hide_border=true" /><br /><br />
+<img align="right" alt="David's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidli108&show_icons=true&hide_border=true&include_all_commits=true" /><br /><br />
