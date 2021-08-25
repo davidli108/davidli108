@@ -1,14 +1,8 @@
-## Senior Blockchain Architect & Full stack engineer with 7+ years of experience. 👋
-
-- 🔭 Lead Developer & Co-Founder of PayrLink, decentralized Escrow for cryptocurrency
-- ✌️ Passionate and highly self-motivated full-stack engineer with extra-ordinary skills.
-- 😎 Love to collabrate with team and learn from members.
-- 😤 Afraid of wasting time.
-- ⚡ Fun fact: I love to play volleyball
+## Senior Web and mobile engineer(+9 years of experience). 👋
 
 ### Connect with me:
 
-[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/maxsim-boiko-jin-1877b7205)
+[<img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/davidli211)
 
 <br />
 
@@ -18,6 +12,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/davidli108/)](https://github.com/davidli108/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/davidli108/)](https://github.com/davidli108/)
