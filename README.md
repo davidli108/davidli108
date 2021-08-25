@@ -13,25 +13,34 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+
+[![React](https://img.shields.io/badge/-ReactJs-black?style=flat&logo=react&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Next](https://img.shields.io/badge/-NextJs-black?style=flat&logo=next&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Nuxt](https://img.shields.io/badge/-Nuxtjs-black?style=flat&logo=nuxt&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Vue](https://img.shields.io/badge/-VueJs-black?style=flat&logo=vue&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Node](https://img.shields.io/badge/-NodeJs-black?style=flat&logo=node&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Express](https://img.shields.io/badge/-ExpressJs-black?style=flat&logo=express&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+
+[![Graphql](https://img.shields.io/badge/-Graphql-black?style=flat&logo=graphql&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat&logo=mongodb&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-black?style=flat&logo=postgresql&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/davidli108/)](https://github.com/davidli108/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=aws&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Firbase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![GCP](https://img.shields.io/badge/-GCP-black?style=flat&logo=gcp&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 
-[![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/davidli108/)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/davidli108/)
+[![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat&logo=stripe&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Adyen](https://img.shields.io/badge/-Adyen-black?style=flat&logo=adyen&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Optimizely](https://img.shields.io/badge/-Optimizely-black?style=flat&logo=optimizely&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Amplitude](https://img.shields.io/badge/-Amplitude-black?style=flat&logo=amplitude&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Hotjar](https://img.shields.io/badge/-Hotjar-black?style=flat&logo=hotjar&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/davidli108/)](https://github.com/davidli108/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat&logo=ethereum&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![Web3Js](https://img.shields.io/badge/-Web3.js-black?style=flat&logo=web3&link=https://github.com/davidli108/)](https://github.com/davidli108/)
+[![SubGraph](https://img.shields.io/badge/-Subgraph-black?style=flat&logo=subgraph&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 
-[![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)](https://github.com/davidli108/)
-[![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/davidli108/)
-[![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)](https://github.com/davidli108/)
-
-[![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/davidli108/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/davidli108/)
-
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/davidli108/)](https://github.com/davidli108/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/davidli108/)](https://github.com/davidli108/)
 <br />
