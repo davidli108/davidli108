@@ -1,4 +1,4 @@
-## Senior Web and Mobile engineer(+9 years of experience). 👋
+## Senior Web3/Web/Mobile Engineer(+9 years of experience). 👋
 
 ### Connect with me:
 
